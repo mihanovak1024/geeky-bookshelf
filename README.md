@@ -6,6 +6,7 @@ Contains recommended books that helped my both technical and soft skill developm
 1. Joshua Bloch: Effective Java
 2. Dmitry Jemerov, Svetlana Isakova: Kotlin In Action
 3. Brian Goetz: Java Concurrency in Practice
+4. Erich Gamma, John Vlissides, Ralph Johnson, and Richard Helm: Design Patterns: Elements of Reusable Object-Oriented Software
 
 ## Soft skill / technical-ish books
 1. Robert C. Martin: Clean Code
