@@ -21,6 +21,7 @@ _**Note**: The books listed are only the ones I've actually read_
 
 ### Startup books :rocket:
 1. Nir Eyal: Hooked: How to Build Habit-Forming Products
+2. Paul Graham's Essays ([link](http://www.paulgraham.com/articles.html))
 
 ***
 
@@ -28,6 +29,9 @@ _**Note**: The books listed are only the ones I've actually read_
 1. Angela Duckworth: Grit
 2. James Clear: Atomic Habits
 3. Susan Jeffers: Feel the fear and do it anyway
+
+## General
+1. Dani Polajnar: 7 Unicorn Drive
 
 ## Investment :moneybag:
 1. Benjamin Graham: The Intelligent Investor
