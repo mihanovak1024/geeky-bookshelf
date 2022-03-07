@@ -18,6 +18,7 @@ _**Note**: The books listed are only the ones I've actually read_
 2. Robert C. Martin: Clean Coder
 3. Andy Hunt and Dave Thomas: The Pragmatic Programmer (20th Anniversary)
 4. David Heinemeier Hansson and Jason Fried: Remote
+5. Gergely Orosz: The Tech Resume Inside Out
 
 ### Startup books :rocket:
 1. Nir Eyal: Hooked: How to Build Habit-Forming Products
