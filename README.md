@@ -12,6 +12,8 @@ _**Note**: The books listed are only the ones I've actually read_
 2. Dmitry Jemerov, Svetlana Isakova: Kotlin In Action
 3. Brian Goetz: Java Concurrency in Practice
 4. Erich Gamma, John Vlissides, Ralph Johnson, and Richard Helm: Design Patterns: Elements of Reusable Object-Oriented Software
+5. Marijn Havarbeke: Eloquent Javascript
+6. javascript.info ([link](https://javascript.info/))
 
 ### Soft skill / technical-ish books :innocent:
 1. Robert C. Martin: Clean Code
@@ -23,6 +25,7 @@ _**Note**: The books listed are only the ones I've actually read_
 ### Startup books :rocket:
 1. Nir Eyal: Hooked: How to Build Habit-Forming Products
 2. Paul Graham's Essays ([link](http://www.paulgraham.com/articles.html))
+3. Eric Ries: The Lean Startup
 
 ***
 
@@ -30,6 +33,7 @@ _**Note**: The books listed are only the ones I've actually read_
 1. Angela Duckworth: Grit
 2. James Clear: Atomic Habits
 3. Susan Jeffers: Feel the fear and do it anyway
+4. Tiago Forte: Building a Second Brain
 
 ## General
 1. Dani Polajnar: 7 Unicorn Drive
