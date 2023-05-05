@@ -26,6 +26,8 @@ _**Note**: The books listed are only the ones I've actually read_
 1. Nir Eyal: Hooked: How to Build Habit-Forming Products
 2. Paul Graham's Essays ([link](http://www.paulgraham.com/articles.html))
 3. Eric Ries: The Lean Startup
+4. Ramli John: Product-Led Onboarding
+5. Wes Bush: Product-Led Growth
 
 ***
 
@@ -37,6 +39,7 @@ _**Note**: The books listed are only the ones I've actually read_
 
 ## General
 1. Dani Polajnar: 7 Unicorn Drive
+2. Jenna Fischer: The Artist's Life
 
 ## Investment :moneybag:
 1. Benjamin Graham: The Intelligent Investor
